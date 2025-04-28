@@ -11,5 +11,10 @@ source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+materials,Materials,
+content,Content
+dimensions,Dimensions,
+colors,Colors,
+binding_styles,Binding Styles
 rights,Rights,
 rightsstatement,Rights Statement,,true
